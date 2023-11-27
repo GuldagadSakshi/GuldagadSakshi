@@ -1,0 +1,10 @@
+- 👋 Hi, I’m gildagd sakshi
+- 👀 I’m interested in software devloper
+- 🌱 I’m currently learning in BCA course
+- 💞️ I’m looking to collaborate on softerware testing,software learning,data designing and cyber security
+- 📫 How to reach me ...
+
+<!---
+GuldagadSakshi/GuldagadSakshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
